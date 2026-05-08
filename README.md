@@ -1,7 +1,7 @@
 # Houston Community Agent — Latam
 > A Houston agent that ingests WhatsApp community conversations, GitHub issues, and other signals from the Houston Latam ecosystem, then produces structured triage reports for the Houston team.
 **Status:** v0.1 — first build of the Houston Latam Builder Series.
-**Author:** Alejandro Gil Rivera ([@alejogilrivera](https://github.com/alejogilrivera))
+**Author:** Alejandro Gil Rivera ([@agr-git](https://github.com/agr-git))
 **Built on:** [Houston](https://github.com/gethouston/houston)
 ---
 ## What this agent does
