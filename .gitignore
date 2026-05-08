@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+# Editors
+.vscode/
+.idea/
+*.swp
+# Houston runtime artifacts (just in case)
+.houston/
+node_modules/
+# Local notes (don't commit drafts)
+NOTES.local.md
+*.local.*
